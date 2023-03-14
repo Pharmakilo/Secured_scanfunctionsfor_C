@@ -4,3 +4,4 @@ Used Libraries:
 #include <stdio.h>
 #include <ctype.h>
 # Please use this code at your own risk.
+# You can ask for help.
